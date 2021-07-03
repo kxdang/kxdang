@@ -5,9 +5,7 @@
 - 💻 I am a Software Developer at Coveo
 - 📈 I have a passion for learning and love to use to [Pomodoro Technique](https://kiendang.me/tags/pomodoro) 🍅
 - 🌱 **Currently learning**
-    - Typescript
-    - Redux
-    - Data Structures and Algorithms
+    - How to become a Git master
 - 📮 You can reach me at [hello@kien.dev](mailto:hello@kien.dev)
 
 

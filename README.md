@@ -1,4 +1,4 @@
-﻿# Kien Dang—@k1dang
+﻿# Kien Dang
 
 ### Welcome to my Github! 👋
 
@@ -7,6 +7,7 @@
 - 📈 I have a passion for learning and love to use to [Pomodoro Technique](https://kiendang.me/tags/pomodoro) 🍅
 - 🌱 **Currently:**
     - Leveling up my technical skills @ NeetCode & GreatFrontEnd (2025)
+
 
 
 

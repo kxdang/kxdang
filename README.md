@@ -3,7 +3,7 @@
 ### Welcome to my Github! 👋
 
 - 🎯 I like to build awesome experiences for the web  
-- 💻 I am a Software Developer at PENN Entertainment  
+- 💻 Software + Data Engineering experience
 - 📈 I have a passion for learning and love to use the [Pomodoro Technique](https://kiendang.me/tags/pomodoro) 🍅  
 
 
